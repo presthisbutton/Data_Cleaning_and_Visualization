@@ -18,7 +18,7 @@ Before doing any analysis, extensive data cleaning is required since the data is
 ## Tools
 - Python
 - Pandas
-- Numpy
+- NumPy
 - Matplotlib
 - Seaborn
 - Re
